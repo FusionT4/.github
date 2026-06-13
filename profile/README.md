@@ -2,8 +2,6 @@
   <img src="./logo.png" width="300">
 </p>
 
-<h1 align="center">Fusion T4</h1>
-
 <p align="center">
 Building the infrastructure that powers the next generation of intelligent business operations.
 </p>
