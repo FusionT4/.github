@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./logo.png" alt="Fusion T4" width="200">
+</p>
 Fusion T4
 
 Building the infrastructure that powers the next generation of intelligent business operations.
